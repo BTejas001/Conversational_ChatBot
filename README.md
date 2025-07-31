@@ -6,25 +6,10 @@ This is a simple chatbot web application built using Langchain, Hugging Face API
 
 ![Chatbot Screenshot](chatbot.jpg)
 
-## Features
+# 💬 LangChain Chatbot Web App
 
-- Chatbot powered by Hugging Face API
-- Web interface using Flask and HTML
-- Environment variable support for API keys
+A conversational AI chatbot built using LangChain, OpenAI API, and Streamlit.  
+This project showcases how to build context-aware bots using LLMs and serve them via a simple web UI.  
+🔐 API keys are managed securely via `.env` file (see `.env.example`)  
+📸 Includes demo image and clean, minimal UI design for better UX.
 
-- ## Setup Instructions
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/conversational_chatbot.git
-   cd conversational_chatbot
-   
-2. Create .env file
-Copy .env.example and add your API key:
-API_KEY=your_api_key_here
-
-3. Install dependencies
-pip install -r requirements.txt
-
-4. Run the app
-python web_app/app.py
