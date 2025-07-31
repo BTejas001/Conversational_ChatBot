@@ -1,9 +1,10 @@
-# 💬 LangChain Chatbot Web App
+# 🤖 Conversational Bot (LangChain + Hugging Face)
 
-A conversational AI chatbot built using LangChain, OpenAI API, and Streamlit.  
-This project showcases how to build context-aware bots using LLMs and serve them via a simple web UI.  
-🔐 API keys are managed securely via `.env` file (see `.env.example`)  
-📸 Includes demo image and clean, minimal UI design for better UX.
+This is my first experiment toward building agentic AI systems — a lightweight conversational chatbot built using **LangChain** and the **Hugging Face free API**.
+
+🧠 It handles natural dialogue and inference-based answers.  
+🛠 Deployed locally using **Flask**.  
+📌 No model hosted — the bot calls Hugging Face’s hosted models via API.
 
 ## 🔍 Preview
 
