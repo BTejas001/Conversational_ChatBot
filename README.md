@@ -2,6 +2,10 @@
 
 This is a simple chatbot web application built using Langchain, Hugging Face API, and Flask.
 
+## 🔍 Preview
+
+![Chatbot Screenshot](chatbot.png)
+
 ## Features
 
 - Chatbot powered by Hugging Face API
