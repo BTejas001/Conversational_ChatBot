@@ -4,7 +4,7 @@ This is a simple chatbot web application built using Langchain, Hugging Face API
 
 ## 🔍 Preview
 
-![Chatbot Screenshot](chatbot.png)
+![Chatbot Screenshot](chatbot.jpg)
 
 ## Features
 
