@@ -1,5 +1,3 @@
-# Langchain Chatbot Web App
-
 # 💬 LangChain Chatbot Web App
 
 A conversational AI chatbot built using LangChain, OpenAI API, and Streamlit.  
